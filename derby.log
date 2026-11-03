@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Mar 12 10:47:35 IST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-019c-e07a-913e-0000028e6830 
+on database directory C:\Users\harshith1402\OneDrive\Desktop\HotelManagementSystemApplication\hotelDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5c647e05 
+Loaded from file:/C:/Users/harshith1402/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.9+10-LTS
+user.dir=C:\Users\harshith1402\OneDrive\Desktop\HotelManagementSystemApplication
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
